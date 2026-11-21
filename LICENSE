@@ -1,0 +1,18 @@
+LexiFlow Studio Binary License
+
+Copyright (c) 2026 LexiApps. All rights reserved.
+
+1. License Grant
+Subject to the terms of this License, LexiApps grants you a personal, non-exclusive, non-transferable, revocable license to download and execute unmodified binary releases of LexiFlow Studio solely for lawful personal or evaluation use.
+
+2. Restrictions
+LexiFlow Studio is distributed as closed-source software. You may not:
+- Decompile, disassemble, reverse engineer, or attempt to extract source code or embedded assets from the executable, except to the extent expressly permitted by mandatory applicable law;
+- Modify, patch, repackage, or create derivative works based on the executable;
+- Sell, rent, lease, sublicense, mirror, or redistribute the executable without prior written permission from LexiApps.
+
+3. Third-Party Components and Services
+This binary bundles Node.js and open-source runtime dependencies, each governed by its respective open-source license. LexiFlow Studio interacts locally with third-party web services accessed by you; you are solely responsible for complying with the terms of service of any external platform you use.
+
+4. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
