@@ -1,7 +1,7 @@
 # LexiFlow Studio
 
 [![Release](https://img.shields.io/github/v/release/lexi-apps/LexiFlowStudio?style=flat-square&label=Release&color=1f6feb)](https://github.com/lexi-apps/LexiFlowStudio/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/lexi-apps/LexiFlowStudio/total?style=flat-square&label=Downloads&color=2da44e)](https://github.com/lexi-apps/LexiFlowStudio/releases)
+[![Downloads](https://img.shields.io/github/downloads/lexi-apps/LexiFlowStudio/latest/LexiFlowStudio.exe?style=flat-square&label=Downloads&color=2da44e)](https://github.com/lexi-apps/LexiFlowStudio/releases/latest)
 [![Stars](https://img.shields.io/github/stars/lexi-apps/LexiFlowStudio?style=flat-square&label=Stars&color=6e7681)](https://github.com/lexi-apps/LexiFlowStudio/stargazers)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-6e7681?style=flat-square)](https://github.com/lexi-apps/LexiFlowStudio/releases/latest)
 [![License](https://img.shields.io/badge/License-Freeware-6e7681?style=flat-square)](LICENSE)
